@@ -12,7 +12,7 @@ function destructivelyRemoveLastKitten(){
   var newkitten = kittens.pop()
   return newkitten
 }
-function destrucivelyRemoveFirstKitten(){
+function destructivelyRemoveFirstKitten(){
   var newkitten = kittens.shift()
   return newkitten
 }
